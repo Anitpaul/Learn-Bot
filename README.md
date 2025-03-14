@@ -7,7 +7,7 @@ LearnBot processes lecture times, adjusts them based on playback speed, adds not
 
 1. **Clone the repository** (or download the ZIP):
    ```sh
-   git clone https://github.com/AnitPaul/LearnBot.git
+   git clone https://github.com/Anitpaul/LearnBot.git
    cd LearnBot
 
 ## Setup
