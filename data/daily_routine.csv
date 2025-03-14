@@ -1,0 +1,24 @@
+Activity,Start Time,End Time,Duration (min)
+Sleep,23:00,05:00,360
+Exercise,05:30,06:30,60
+Pre-Breakfast (Tea/Coffee),08:00,08:10,10
+Study Session 1,07:00,08:30,90
+Break,08:30,08:45,15
+Study Session 2,08:45,10:15,90
+Break,10:15,10:30,15
+Break Fast,11:00,11:20,20
+Break,11:20,12:00,15
+Study Session 4,12:00,13:30,90
+Cold Shower,13:30,13:45,15
+Chess (Free Time),13:45,14:45,60
+Study Session 5,14:45,15:45,60
+Lunch,15:45,16:00,15
+Nap,16:00,16:30,30
+Break,16:15,16:30,15
+Study Session 6,16:30,18:00,90
+Break,18:00,18:15,15
+Study Session 7,18:15,19:45,90
+Break,19:45,20:00,15
+Study Session 8,20:00,21:30,90
+Dinner,21:30,22:00,30
+Revision,22:00,23:00,60
